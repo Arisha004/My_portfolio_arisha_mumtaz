@@ -58,16 +58,16 @@ The project has a simple directory structure to keep things organized:
 /My_portfolio_arisha_mumtaz
     /index.html            # Main HTML file for the website
     /style.css             # CSS file for styling
-    /script.js             # JavaScript file for interactivity
-    /data.json             # JSON file for managing dynamic content
+    /app.js             # JavaScript file for interactivity
+    /projects.json             # JSON file for managing dynamic content
 ```
 
 ### File Details:
 
 - **HTML (`index.html`)**: Contains the core structure of the site, including the header, navigation, sections, and footer.
 - **CSS (`style.css`)**: Defines the styling for the website, including layout, fonts, colors, and media queries for responsiveness.
-- **JavaScript (`script.js`)**: Provides interactivity such as button clicks, form submissions, and data loading.
-- **JSON (`data.json`)**: Stores the dynamic content for different sections, such as project information, skills, and experiences.
+- **JavaScript (`app.js`)**: Provides interactivity such as button clicks, form submissions, and data loading.
+- **JSON (`projects.json`)**: Stores the dynamic content for different sections, such as project information, skills, and experiences.
 
 ## Features
 
